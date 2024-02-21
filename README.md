@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobole dev
 - 🌱 I’m currently learning Dart anf flutter
 - 💞️ I’m looking to collaborate on Github
-- ⚡ Fun fact: cowo
+- ⚡ Fun fact: Newbie
 
 <!---
 IrfanFared/IrfanFared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
