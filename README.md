@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IrfanFared
-- 👀 I’m interested in mobile dev
+- 👀 I’m interested in Machine learning (ML)
 - 🌱 I’m currently learning Dart anf flutter
 - 💞️ I’m looking to collaborate on Github
 - ⚡ Fun fact: Newbie
